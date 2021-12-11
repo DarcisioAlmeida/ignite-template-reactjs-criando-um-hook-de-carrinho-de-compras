@@ -1,3 +1,9 @@
+# ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras
+
+## Desafio - Criando um Hook de Carrinho de Compras
+
+Esse repositório foi desenvolvido com base no curso de ReactJS Ignite - Rocketseat <br>
+
 ![Ignite](./public/images/ignite-react.jpg 'RocketSeat') <br>
 # 💻 Sobre o desafio
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
